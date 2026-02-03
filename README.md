@@ -1,4 +1,6 @@
 # ML4102 - Data Literacy Project
+- Project Report: [link](https://github.com/mhdihso/DATA_LITERACY/blob/website/Data%20Literacy%20Project%20Report.pdf)
+- Project Website: [link](https://dataliteracy-aeardzhvggvfgwzmcvwgvh.streamlit.app/)
 
 ## Project Overview
 This repository contains the code and analysis pipeline for our project, **"Everyday Context and Cognition: Links Between Household Resources and Neural Control,"** conducted for the Data Literacy course at the University of Tübingen (Winter 2025/26). 

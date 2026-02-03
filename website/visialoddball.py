@@ -134,6 +134,9 @@ def drive_smoke_test(folder_id: str) -> Dict:
             st.error("GDRIVE_VO_FOLDER_ID is not a folder.")
             st.stop()
 
+
+        st.caption("Project repository: https://github.com/mhdihso/DATA_LITERACY")
+        st.caption("Project Paper PDF : https://github.com/mhdihso/DATA_LITERACY/blob/website/Data%20Literacy%20Project%20Report.pdf")
         st.caption(f"Drive connected as: {sa_email}")
         st.caption(f"Root folder: {meta.get('name')} ({meta.get('id')})")
         return meta

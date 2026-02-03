@@ -53,7 +53,7 @@ The analysis uses publicly available EEG data from a study from [Isbell et al.](
 3. Launch the Streamlit dashboard:
     ```bash
     cd website
-    streamlit run project_steamlite.py
+    streamlit run visialoddball.py
     ```
 
 ## Acknowledgments
